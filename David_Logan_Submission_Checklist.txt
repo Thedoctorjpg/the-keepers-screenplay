@@ -1,0 +1,213 @@
+═══════════════════════════════════════════════════════════════════
+THE KEEPERS — DAVID LOGAN'S SUBMISSION CHECKLIST
+═══════════════════════════════════════════════════════════════════
+
+YOUR DETAILS (for reference):
+Name: David Logan
+Email: david_logan_nz@outlook.com
+Phone: +64 27 3084 960
+Address: 104/32 Shortfin Place, Flat Bush, Auckland, New Zealand 2019
+Portfolio: instagram.com/dloganberry
+
+═══════════════════════════════════════════════════════════════════
+
+BEFORE YOUR FIRST SUBMISSION (Aotearoa Film Festival)
+
+☐ Create FilmFreeway account at filmfreeway.com
+☐ Upload The_Keepers_Screenplay.fdx to your FilmFreeway account (saves time for future submissions)
+☐ Prepare The_Keepers_Synopsis_1Page.txt in a text editor (ready to copy/paste)
+☐ Read the cover letter for Aotearoa Film Festival (CoverLetter_Aotearoa_Film_Festival.txt)
+☐ Locate Aotearoa Film Festival submission page
+☐ Check submission deadline date (1 March 2026 expected)
+☐ Verify file format required (likely FDX or PDF)
+☐ Verify synopsis format required (likely 1-page)
+☐ Note submission fee (expected: $50–60 NZD)
+☐ Have payment method ready (credit card or PayPal)
+
+═══════════════════════════════════════════════════════════════════
+
+AOTEAROA FILM FESTIVAL SUBMISSION STEPS
+
+STEP 1: Visit Festival Website
+URL: Check for "aotearoa-film-festival.nz" or search "Aotearoa Film Festival submission"
+Look for: "Submit Your Screenplay" or "Call for Submissions"
+
+STEP 2: Follow Submission Instructions
+□ Click "Submit Screenplay" or enter submission portal
+□ Verify format required (FDX or PDF) — if unsure, use PDF
+□ Verify synopsis length — 1-page recommended for this festival
+
+STEP 3: Prepare Your Files
+□ Open The_Keepers_Screenplay.fdx (or convert to PDF if required)
+   - File is located: /workspace/The_Keepers_Screenplay.fdx
+   - If festival requires PDF: open FDX file in any screenwriting software, export as PDF
+     OR use The_Keepers.txt as fallback (plain text version)
+□ Copy text from The_Keepers_Synopsis_1Page.txt (ready to paste into form)
+□ Copy text from CoverLetter_Aotearoa_Film_Festival.txt (ready to paste into "cover letter" field)
+
+STEP 4: Enter Personal Information
+□ Full Name: David Logan
+□ Email: david_logan_nz@outlook.com
+□ Phone: +64 27 3084 960
+□ Address: 104/32 Shortfin Place, Flat Bush, Auckland, New Zealand 2019
+□ Website/Portfolio: instagram.com/dloganberry
+
+STEP 5: Upload Screenplay
+□ Upload The_Keepers_Screenplay.fdx (or PDF version if required)
+□ Wait for upload confirmation (file size should be <10MB)
+
+STEP 6: Paste Synopsis
+□ Paste The_Keepers_Synopsis_1Page.txt content into "Synopsis" field
+□ Verify formatting (remove any extra line breaks)
+
+STEP 7: Paste Cover Letter
+□ Copy entire text from CoverLetter_Aotearoa_Film_Festival.txt
+□ Paste into "Cover Letter" field if available
+□ OR copy as email body if submitting via email instead of portal
+
+STEP 8: Submit & Confirm
+□ Review all fields before submitting
+□ Click "Submit"
+□ Screenshot confirmation page (backup proof)
+□ Save confirmation email immediately
+□ Note confirmation # or submission ID
+
+STEP 9: Update Tracking Log
+□ Open Submission_Tracking_Log.txt
+□ Find "Aotearoa Film Festival" row
+□ Update: Submitted [✓], Cost [60], Status [Submitted]
+□ Note: Confirmation # / email received date
+
+═══════════════════════════════════════════════════════════════════
+
+IF USING FILMFREEWAY (Recommended for Efficiency)
+
+1. CREATE ACCOUNT (one-time setup):
+   □ Go to filmfreeway.com
+   □ Click "Sign Up"
+   □ Create account with email: david_logan_nz@outlook.com
+   □ Add profile: David Logan, location: Auckland, New Zealand
+   □ Upload profile photo (optional but recommended)
+
+2. ADD SCREENPLAY (one-time, reusable for all festivals):
+   □ Click "Add a New Film"
+   □ Title: THE KEEPERS
+   □ Genre: Fantasy / Drama / Introspective
+   □ Duration: 110–120 minutes (feature)
+   □ Upload The_Keepers_Screenplay.fdx
+   □ Upload poster/cover image if available (optional)
+   □ Add synopsis: paste The_Keepers_Synopsis_1Page.txt
+   □ Add description/logline
+   □ Save
+
+3. SUBMIT TO AOTEAROA FILM FESTIVAL:
+   □ Search "Aotearoa Film Festival" in FilmFreeway
+   □ Click "Submit" for that festival
+   □ Select your screenplay (THE KEEPERS)
+   □ Paste cover letter into "Additional Comments" or email field
+   □ Complete submission form (personal details, contact info)
+   □ Review and submit
+   □ Save confirmation page
+
+BENEFIT: Once you've added THE KEEPERS to FilmFreeway, subsequent festival submissions take 5 minutes (just select festival, customize cover letter, submit).
+
+═══════════════════════════════════════════════════════════════════
+
+AFTER FIRST SUBMISSION
+
+Within 1 week:
+☐ Update Submission_Tracking_Log.txt with Aotearoa Film Festival submission date
+☐ Check your email for confirmation
+☐ Note expected notification date (check festival website for timeline)
+☐ Plan next submission (recommend NZIFF next — home market advantage)
+
+Within 2 weeks:
+☐ Submit to NZIFF using same process
+☐ Use CoverLetter_NZIFF.txt (already customized for you)
+
+Within 1 month:
+☐ Have submitted to: Aotearoa FF, NZIFF, MIFF, Sydney FF (4 home market festivals)
+☐ Total cost: ~NZD $280–300
+
+═══════════════════════════════════════════════════════════════════
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: What if a festival says "FDX not accepted, PDF only"?
+A: Use The_Keepers.txt (plain text) or download a free screenwriting app that converts FDX to PDF:
+   • Final Draft Free Trial (finaldraft.com)
+   • CeltX (celtx.com) — free online screenwriting software
+   • Google Docs screenplay template
+   Most festivals accept PDF without issue.
+
+Q: What if the cover letter field is small/limited?
+A: Keep the customized cover letter to 1 page maximum. You can also send as email attachment if submitting via email instead of portal.
+
+Q: How long until I hear back?
+A: Festival notification times vary:
+   • Local/regional festivals: 2–3 months
+   • Major festivals: 4–6 months
+   Check each festival's website for expected timeline.
+
+Q: Should I follow up if I haven't heard back by the expected date?
+A: Most festivals request you NOT follow up unless past the stated deadline. Check their submission policy. If they don't respond within stated timeline, brief follow-up is acceptable.
+
+Q: What if the festival asks for different materials (headshot, director's statement, etc.)?
+A: Festival_Submission_Strategy.txt includes notes on optional materials:
+   • Director's statement (150–200 words on your vision)
+   • Artist bio (100–150 words about your background)
+   Have these ready as text files for festivals that request them.
+
+Q: Can I submit to multiple festivals at the same time?
+A: YES—most screenplays are submitted to 15–20 festivals simultaneously. However:
+   • If you get accepted, notify other festivals immediately (some require exclusivity)
+   • Check each festival's terms for exclusive/non-exclusive options
+
+═══════════════════════════════════════════════════════════════════
+
+YOUR CUSTOMIZED COVER LETTERS (Ready to Use)
+
+1. CoverLetter_Aotearoa_Film_Festival.txt — Ready (home market, indigenous focus)
+2. CoverLetter_NZIFF.txt — Ready (New Zealand International Film Festival)
+3. CoverLetter_MIFF.txt — Ready (Melbourne International Film Festival)
+4. CoverLetter_Sydney_Film_Festival.txt — Ready (Sydney Film Festival)
+5. CoverLetter_SXSW.txt — Ready (SXSW, music-integration focused)
+
+For other festivals:
+→ Use The_Keepers_Cover_Letter.txt as template
+→ Replace [Festival Name] with actual festival name
+→ Add 1–2 sentences mentioning past accepted films from that festival (research on their website)
+
+═══════════════════════════════════════════════════════════════════
+
+KEY DATES TO REMEMBER
+
+✓ Aotearoa Film Festival: ~1 March 2026 (deadline)
+✓ NZIFF: ~15 March 2026 (deadline)
+✓ Sydney Film Festival: ~28 February 2026 (deadline)
+✓ MIFF: ~30 April 2026 (deadline)
+
+Set phone reminders for 2 weeks before each deadline to ensure timely submissions.
+
+═══════════════════════════════════════════════════════════════════
+
+YOUR SUCCESS METRIC
+
+Goal Year 1: 
+✓ Submit to 15–20 festivals
+✓ Achieve 1–3 acceptances
+✓ Attend at least 1 festival where selected
+✓ Network with producers/agents
+✓ Build momentum for distribution/option deals
+
+Current status:
+✓ Screenplay complete and polished (110–120 pages)
+✓ All export formats ready (FDX, Fountain, TXT)
+✓ Publishing materials prepared (synopses, character breakdown)
+✓ 5 customized cover letters ready
+✓ Submission tracking system in place
+✓ First submission (Aotearoa FF) ready to upload
+
+YOU ARE READY TO SUBMIT. Go get 'em, David! 🎬
+
+═══════════════════════════════════════════════════════════════════
